@@ -1,8 +1,5 @@
 # Ignore paths that contain user-generated content.
 docroot/files
 docroot/sites/*/files
-docroot/sites/*/private
-docroot/sites/default/settings/local.settings.php
-docroot/sites/*/settings/local.settings.php
-docroot/sites/default/settings.local.php
+sites/*
 .DS_Store
